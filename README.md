@@ -7,7 +7,7 @@
 </div>
 
 <h3 align = "center">
-  Um app simples que simula um relógio no navegador! 🥁
+  Um app simples que simula um relógio no navegador! ⏰
 </h3>
 
 <h4 align = "center">
